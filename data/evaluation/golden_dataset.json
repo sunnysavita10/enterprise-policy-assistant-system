@@ -1,0 +1,62 @@
+[
+  {
+    "id": "G01",
+    "question": "What is the hotel reimbursement cap for domestic travel in Bengaluru?",
+    "reference_answer": "The cap is INR 9,000 per night excluding taxes in Bengaluru. Higher amounts require written pre-approval from the business unit head and Finance.",
+    "expected_source": "travel_policy.md"
+  },
+  {
+    "id": "G02",
+    "question": "How many annual leave days do full-time employees get?",
+    "reference_answer": "Full-time employees receive 24 working days of paid annual leave per calendar year.",
+    "expected_source": "hr_policy.md"
+  },
+  {
+    "id": "G03",
+    "question": "Can I work from home three days every week without approval?",
+    "reference_answer": "No. The policy allows up to two days per week when the role permits and the reporting manager approves it.",
+    "expected_source": "hr_policy.md"
+  },
+  {
+    "id": "G04",
+    "question": "Can I copy confidential source code to my personal USB drive?",
+    "reference_answer": "No. Copying confidential company data to personal USB drives or other unapproved removable media is prohibited.",
+    "expected_source": "it_security_policy.md"
+  },
+  {
+    "id": "G05",
+    "question": "How quickly should I report a suspected phishing incident?",
+    "reference_answer": "As soon as possible and no later than one hour after discovery.",
+    "expected_source": "it_security_policy.md"
+  },
+  {
+    "id": "G06",
+    "question": "Can I paste a customer access token into a consumer AI chatbot?",
+    "reference_answer": "No. Access tokens and confidential information must not be pasted into an AI service unless the specific service and use case are formally approved for such data; consumer AI accounts must not be used for confidential company information.",
+    "expected_source": "ai_use_policy.md"
+  },
+  {
+    "id": "G07",
+    "question": "Does AI-generated legal interpretation require human review?",
+    "reference_answer": "Yes. AI-generated content used for legal interpretation must be reviewed by an appropriately qualified employee before use.",
+    "expected_source": "ai_use_policy.md"
+  },
+  {
+    "id": "G08",
+    "question": "What is the domestic meal reimbursement limit?",
+    "reference_answer": "INR 1,500 per day. Alcoholic beverages are not reimbursable.",
+    "expected_source": "travel_policy.md"
+  },
+  {
+    "id": "G09",
+    "question": "How many days of paid bereavement leave are available?",
+    "reference_answer": "Up to five working days for the death of an immediate family member.",
+    "expected_source": "hr_policy.md"
+  },
+  {
+    "id": "G10",
+    "question": "What is the company's helicopter reimbursement limit?",
+    "reference_answer": "The available policy documents do not define a helicopter reimbursement limit.",
+    "expected_source": null
+  }
+]
